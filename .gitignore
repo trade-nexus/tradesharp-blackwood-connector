@@ -210,3 +210,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+TradeHub.OrderExecutionProvider.Blackwood/Config/BlackwoodOrderParams.xml
+TradeHub.MarketDataProvider.Blackwood.Tests/Config/BlackwoodTestParams.xml
+TradeHub.MarketDataProvider.Blackwood/Config/BlackwoodParams.xml
