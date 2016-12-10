@@ -59,3 +59,7 @@ Find more about TradeSharp [here](https://www.tradesharp.se/).
 ```
 
 **Clean** and **Build** the code.
+
+### Bugs
+
+Please report bugs [here](https://github.com/trade-nexus/bugs)
