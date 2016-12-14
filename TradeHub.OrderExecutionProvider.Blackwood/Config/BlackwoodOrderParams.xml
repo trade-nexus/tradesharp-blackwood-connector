@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Blackwood>
+  <Username>ABCDXYZ</Username>
+  <Password>abc123</Password>
+  <Ip>99.5.22.56</Ip>
+  <Port>5000</Port>
+  <ClientPort>5300</ClientPort>
+</Blackwood>
