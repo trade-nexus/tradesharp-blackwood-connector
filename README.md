@@ -1,3 +1,6 @@
+## IMPORTANT ##
+This is an old project and hasn't been actively maintained since 2015 and we're not providing any paid support for it.
+
 ### Blackwood-Connector
 
 ***
